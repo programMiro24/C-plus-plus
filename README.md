@@ -3,6 +3,7 @@
 <p align="center">
 IDE : CodeBlocks <br />
 Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina Atanasova.
+<p align="center">
   arrays
   string
   data types
@@ -12,4 +13,5 @@ Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina 
   word processing
   cycles
   functions
+</p
 </p>
