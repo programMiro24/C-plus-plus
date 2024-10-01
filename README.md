@@ -3,7 +3,8 @@
 <p align="center">
 IDE : CodeBlocks <br />
 Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina Atanasova.
-<p align="center">
+<!-- <p align="center"> -->
+<p>Curriculum:</p>
 <ul>
   <li>arrays</li>
   <li>string</li>
@@ -15,5 +16,5 @@ Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina 
   <li>cycles</li>
   <li>functions</li>
 </ul>
-</p>
+<!-- </p> -->
 </p>
