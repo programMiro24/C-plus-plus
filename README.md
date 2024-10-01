@@ -3,15 +3,17 @@
 <p align="center">
 IDE : CodeBlocks <br />
 Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina Atanasova.
+<p align="center">
 <ul>
   <li>arrays</li>
-  <li>string</li> <br />
-  <li>data types</li> <br />
-  <li>if and else</li> <br />
-  Algorithms <br />
-  type char <br />
-  word processing <br />
-  cycles <br />
-  functions <br />
+  <li>string</li>
+  <li>data types</li>
+  <li>if and else</li>
+  <li>Algorithms</li>
+  <li>type char</li>
+  <li>word processing</li>
+  <li>cycles</li>
+  <li>functions</li>
 </ul>
+</p>
 </p>
