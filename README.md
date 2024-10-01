@@ -4,7 +4,7 @@
 IDE : CodeBlocks <br />
 Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina Atanasova.
 <ul>
-  <li>arrays</li> <br />
+  <li>arrays</li>
   <li>string</li> <br />
   <li>data types</li> <br />
   <li>if and else</li> <br />
