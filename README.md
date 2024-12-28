@@ -8,7 +8,9 @@ Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina 
 </p>
 <!-- <p align="center"> -->
 <br>
-<p>Curriculum:</p>
+<p>Curriculum:<br>
+-----------------
+</p>
 <ul>
   <li>arrays</li>
   <li>string</li>
