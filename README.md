@@ -2,7 +2,7 @@
 ## Programs - C++
 <p align="center">
 IDE : CodeBlocks <br />
-Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina Atanasova.
+Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina Atanasova.</p>
 <!-- <p align="center"> -->
 <br>
 <p>Curriculum:</p>
