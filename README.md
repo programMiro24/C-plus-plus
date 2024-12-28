@@ -11,11 +11,12 @@ Thank very much of Daniela Marinova, docent Plamenka Hristova and docent Galina 
   <li>string</li>
   <li>data types</li>
   <li>if and else</li>
-  <li>Algorithms</li>
+  <li>algorithms</li>
   <li>type char</li>
   <li>word processing</li>
   <li>cycles</li>
   <li>functions</li>
+  <li>structures</li>
 </ul>
 <!-- </p> -->
 </p>
