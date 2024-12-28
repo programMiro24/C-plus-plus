@@ -1,5 +1,5 @@
 <p align="center">
-## Programs - C++
+Programs - C++
 </p>
 <p align="center">
 IDE : CodeBlocks <br>
