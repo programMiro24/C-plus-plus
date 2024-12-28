@@ -1,6 +1,6 @@
 <p align="center">
-Programs - C++
-  -------------------------
+Programs - C++<br>
+-------------------------
 </p>
 <p align="center">
 IDE : CodeBlocks <br>
